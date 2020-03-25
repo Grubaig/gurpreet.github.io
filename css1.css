@@ -1,0 +1,17 @@
+	html {
+		font-family: 'Liu Jian Mao Cao', cursive;
+		font-size: 64px;
+		background-color: #BB8DE6; 
+	
+	}
+
+	body{
+		height: 80px;
+		width: 500px;
+		background-color: red;
+	}
+
+	img{
+		display: block;
+		
+	}
